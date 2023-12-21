@@ -1,0 +1,14 @@
+dpsdppsp[
+d[ddf[fp
+dpdpffpdd
+
+Vlan     Mac Adress         Type      Ports
+----     ----------         ----      -----
+100    01lgffo569/700      DYNAMIC    GIO/1
+200    06lgffo569/700      DYNAMIC    GIO/2
+300    17lgffo569/700      DYNAMIC    GIO/3
+10     01lgffo569/909      DYNAMIC    GIO/5
+400    01lgffo569/787      DYNAMIC    GIO/6
+150    01lgffo569/500      DYNAMIC    GIO/7
+350    01lgffo569/400      DYNAMIC    GIO/8
+20     01lgffo569/300      DYNAMIC    GIO/9
